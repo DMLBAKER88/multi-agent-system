@@ -24,3 +24,5 @@ Edit `config.py` to choose between local Ollama models and OpenAI.
 - **tools/**: Shared tools agents can use.
 - **memory/**: SQLite for task state.
 - **utils/**: Logging and LLM helpers.
+
+This is my first change, just testing my GitHub connection!
